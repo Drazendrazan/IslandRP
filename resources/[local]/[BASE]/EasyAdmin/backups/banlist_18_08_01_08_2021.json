@@ -1,0 +1,75 @@
+[
+    {
+        "banid": 5,
+        "identifiers": [
+            "steam:1100001448d8b6d",
+            "license:c09c9fe3dd06834554a87c3a4a64ed1bfba3d283",
+            "xbl:2535428043593417",
+            "live:914798350836040",
+            "discord:675050949139496960",
+            "license2:c09c9fe3dd06834554a87c3a4a64ed1bfba3d283",
+            "ip:195.140.131.215"
+        ],
+        "name": "kadre",
+        "reason": "Nie określono przyczyny ( Gracz: kadre ), Zablokowany przez: sitrox",
+        "banner": "sitrox",
+        "expire": 10444633200
+    },
+    {
+        "banid": 13,
+        "identifiers": [
+            "steam:1100001417b5833",
+            "license:e34c347dd4e5bab836d93272d54f64668348688d",
+            "license2:e34c347dd4e5bab836d93272d54f64668348688d",
+            "ip:178.212.123.61"
+        ],
+        "name": "Karldadkqwf",
+        "reason": "troll ( Gracz: Karldadkqwf ), Zablokowany przez: Dostych",
+        "banner": "Dostych",
+        "expire": 10444633200
+    },
+    {
+        "banid": 14,
+        "identifiers": [
+            "steam:11000013958e645",
+            "license:97d503f1480a72acbf044202042f2d112ca9d83b",
+            "discord:799556668005679104",
+            "license2:97d503f1480a72acbf044202042f2d112ca9d83b",
+            "ip:95.208.71.173"
+        ],
+        "name": "barbarkakrawczyk",
+        "reason": "Nie określono przyczyny ( Gracz: barbarkakrawczyk ), Zablokowany przez: sitrox",
+        "banner": "sitrox",
+        "expire": 10444633200
+    },
+    {
+        "banid": 15,
+        "identifiers": [
+            "steam:11000013958e645",
+            "license:97d503f1480a72acbf044202042f2d112ca9d83b",
+            "discord:799556668005679104",
+            "license2:97d503f1480a72acbf044202042f2d112ca9d83b",
+            "ip:95.208.71.173"
+        ],
+        "name": "barbarkakrawczyk",
+        "reason": "Nie określono przyczyny ( Gracz: barbarkakrawczyk ), Zablokowany przez: sitrox",
+        "banner": "sitrox",
+        "expire": 10444633200
+    },
+    {
+        "banid": 16,
+        "identifiers": [
+            "steam:110000147fdfa19",
+            "license:42bb2580f5a4f2047a1c98c59a260957cc71cd6b",
+            "xbl:2535455373911773",
+            "live:1055518794630711",
+            "discord:600282071923032065",
+            "license2:42bb2580f5a4f2047a1c98c59a260957cc71cd6b",
+            "ip:83.28.228.46"
+        ],
+        "name": "Kiera",
+        "reason": "Nie określono przyczyny ( Gracz: Kiera ), Zablokowany przez: xSKA",
+        "expire": 10444633200,
+        "banner": "xSKA"
+    }
+]

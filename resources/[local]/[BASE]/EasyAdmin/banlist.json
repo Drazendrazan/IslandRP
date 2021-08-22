@@ -1,0 +1,45 @@
+[
+    {
+        "reason": "Nie określono przyczyny ( Gracz: kadre ), Zablokowany przez: sitrox",
+        "banid": 5,
+        "banner": "sitrox",
+        "identifiers": [
+            "steam:1100001448d8b6d",
+            "license:c09c9fe3dd06834554a87c3a4a64ed1bfba3d283",
+            "xbl:2535428043593417",
+            "live:914798350836040",
+            "discord:675050949139496960",
+            "license2:c09c9fe3dd06834554a87c3a4a64ed1bfba3d283",
+            "ip:195.140.131.215"
+        ],
+        "expire": 10444633200,
+        "name": "kadre"
+    },
+    {
+        "reason": "troll ( Gracz: Karldadkqwf ), Zablokowany przez: Dostych",
+        "banid": 13,
+        "banner": "Dostych",
+        "identifiers": [
+            "steam:1100001417b5833",
+            "license:e34c347dd4e5bab836d93272d54f64668348688d",
+            "license2:e34c347dd4e5bab836d93272d54f64668348688d",
+            "ip:178.212.123.61"
+        ],
+        "expire": 10444633200,
+        "name": "Karldadkqwf"
+    },
+    {
+        "reason": "Nie określono przyczyny ( Gracz: barbarkakrawczyk ), Zablokowany przez: sitrox",
+        "banid": 14,
+        "banner": "sitrox",
+        "identifiers": [
+            "steam:11000013958e645",
+            "license:97d503f1480a72acbf044202042f2d112ca9d83b",
+            "discord:799556668005679104",
+            "license2:97d503f1480a72acbf044202042f2d112ca9d83b",
+            "ip:95.208.71.173"
+        ],
+        "expire": 10444633200,
+        "name": "barbarkakrawczyk"
+    }
+]
