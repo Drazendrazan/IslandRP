@@ -7,7 +7,7 @@ INTERIORY: PW
 
 AUTA: PW                  
 
-Baza paczki: https://github.com/szymczakovv/AriviRP
+Podstawka: https://github.com/szymczakovv/AriviRP
 
 https://discord.gg/GC9hcGbjCghttps://discord.gg/GC9hcGbjCg
 https://discord.gg/GC9hcGbjCg
